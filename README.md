@@ -4,7 +4,7 @@
 Einführung in / Zusammenfassung des Projektes. 
 
 ### Entwicklungsplattform: 
-(Betriebsystem, Unity Version, Visual Studio Version, verwendete SDKs)
+(Betriebsystem, Unity Version 2020 3.9 f1, Visual Studio Version, verwendete SDKs)
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
